@@ -1,6 +1,7 @@
 ﻿
 using InsiteInternaitonal;
 using System;
+using System.Drawing;
 using System.Reflection.PortableExecutable;
 
 class Program {
@@ -10,7 +11,7 @@ class Program {
 
         Console.ForegroundColor = ConsoleColor.Red;
 
-        Rectangle small = new Rectangle();
+        InsiteInternaitonal.Rectangle small = new InsiteInternaitonal.Rectangle();
         small.Width = 0;// setWidth(10);
         Console.WriteLine($"width is {small.Width}");
 

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77480642-2791-4018-812F-E839781A727B}|Lab02AccountConstructor\\Lab02AccountConstructor.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab02accountconstructor\\lab02accountconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77480642-2791-4018-812F-E839781A727B}|Lab02AccountConstructor\\Lab02AccountConstructor.csproj|solutionrelative:lab02accountconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77480642-2791-4018-812F-E839781A727B}|Lab02AccountConstructor\\Lab02AccountConstructor.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab02accountconstructor\\lab02accountconstructor\\insiteinternational\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77480642-2791-4018-812F-E839781A727B}|Lab02AccountConstructor\\Lab02AccountConstructor.csproj|solutionrelative:lab02accountconstructor\\insiteinternational\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77480642-2791-4018-812F-E839781A727B}|Lab02AccountConstructor\\Lab02AccountConstructor.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab02accountconstructor\\lab02accountconstructor\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{77480642-2791-4018-812F-E839781A727B}|Lab02AccountConstructor\\Lab02AccountConstructor.csproj|solutionrelative:lab02accountconstructor\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Lab02AccountConstructor\\ClassDiagram1.cd",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\ClassDiagram1.cd",
+              "RelativeToolTip": "Lab02AccountConstructor\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-09-30T07:30:29.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\InsiteInternational\\Account.cs",
+              "RelativeDocumentMoniker": "Lab02AccountConstructor\\InsiteInternational\\Account.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\InsiteInternational\\Account.cs",
+              "RelativeToolTip": "Lab02AccountConstructor\\InsiteInternational\\Account.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:23:22.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02AccountConstructor\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\Program.cs",
+              "RelativeToolTip": "Lab02AccountConstructor\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:16:58.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

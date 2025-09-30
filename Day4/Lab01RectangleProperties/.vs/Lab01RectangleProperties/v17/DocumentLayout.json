@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|solutionrelative:lab01rectangleproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab01rectangleproperties\\lab01rectangleproperties\\insiteinternaitonal\\borderstyleoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|solutionrelative:lab01rectangleproperties\\insiteinternaitonal\\borderstyleoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab01rectangleproperties\\lab01rectangleproperties\\insiteinternaitonal\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|solutionrelative:lab01rectangleproperties\\insiteinternaitonal\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab01rectangleproperties\\lab01rectangleproperties\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|solutionrelative:lab01rectangleproperties\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab01rectangleproperties\\lab01rectangleproperties\\insiteinternaitonal\\borderstyleoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|solutionrelative:lab01rectangleproperties\\insiteinternaitonal\\borderstyleoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB469AF8-8910-45ED-A722-2FCA35A24DD2}|Lab01RectangleProperties\\Lab01RectangleProperties.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day4\\lab01rectangleproperties\\lab01rectangleproperties\\lab01rectangleproperties.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BorderStyleOption.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\InsiteInternaitonal\\BorderStyleOption.cs",
               "RelativeDocumentMoniker": "Lab01RectangleProperties\\InsiteInternaitonal\\BorderStyleOption.cs",
@@ -60,37 +56,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "Lab01RectangleProperties\\ClassDiagram1.cd",
-              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\ClassDiagram1.cd",
-              "RelativeToolTip": "Lab01RectangleProperties\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-09-30T06:28:04.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lab01RectangleProperties",
+              "Title": "Lab01RectangleProperties.csproj",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\Lab01RectangleProperties.csproj",
               "RelativeDocumentMoniker": "Lab01RectangleProperties\\Lab01RectangleProperties.csproj",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\Lab01RectangleProperties.csproj",
               "RelativeToolTip": "Lab01RectangleProperties\\Lab01RectangleProperties.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-30T05:55:53.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T05:55:53.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\InsiteInternaitonal\\Rectangle.cs",
               "RelativeDocumentMoniker": "Lab01RectangleProperties\\InsiteInternaitonal\\Rectangle.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\InsiteInternaitonal\\Rectangle.cs",
               "RelativeToolTip": "Lab01RectangleProperties\\InsiteInternaitonal\\Rectangle.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T05:55:09.917Z",
               "EditorCaption": ""
@@ -103,7 +86,7 @@
               "RelativeDocumentMoniker": "Lab01RectangleProperties\\Program.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab01RectangleProperties\\Lab01RectangleProperties\\Program.cs",
               "RelativeToolTip": "Lab01RectangleProperties\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T05:48:09.809Z",
               "EditorCaption": ""
