@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\bin\Debug\net8.0\Lab04StringImmutable.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\bin\Debug\net8.0\Lab04StringImmutable.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\bin\Debug\net8.0\Lab04StringImmutable.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\bin\Debug\net8.0\Lab04StringImmutable.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\bin\Debug\net8.0\Lab04StringImmutable.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\Lab04StringImmutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\Lab04StringImmutable.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\Lab04StringImmutable.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\Lab04StringImmutable.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\Lab04StringImmutable.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\refint\Lab04StringImmutable.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\Lab04StringImmutable.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\Lab04StringImmutable.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab04StringImmutable\Lab04StringImmutable\obj\Debug\net8.0\ref\Lab04StringImmutable.dll

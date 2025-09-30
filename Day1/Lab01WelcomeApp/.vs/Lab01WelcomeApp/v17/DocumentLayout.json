@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day1\\Lab01WelcomeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB4E927-6237-450D-9672-730B30E9BF33}|Lab01WelcomeApp\\Lab01WelcomeApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day1\\lab01welcomeapp\\lab01welcomeapp\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB4E927-6237-450D-9672-730B30E9BF33}|Lab01WelcomeApp\\Lab01WelcomeApp.csproj|solutionrelative:lab01welcomeapp\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB4E927-6237-450D-9672-730B30E9BF33}|Lab01WelcomeApp\\Lab01WelcomeApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day1\\lab01welcomeapp\\lab01welcomeapp\\lab01welcomeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FB4E927-6237-450D-9672-730B30E9BF33}|Lab01WelcomeApp\\Lab01WelcomeApp.csproj|solutionrelative:lab01welcomeapp\\lab01welcomeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day1\\Lab01WelcomeApp\\Lab01WelcomeApp\\Welcome.cs",
+              "RelativeDocumentMoniker": "Lab01WelcomeApp\\Welcome.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day1\\Lab01WelcomeApp\\Lab01WelcomeApp\\Welcome.cs",
+              "RelativeToolTip": "Lab01WelcomeApp\\Welcome.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T08:55:33.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab01WelcomeApp.csproj",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day1\\Lab01WelcomeApp\\Lab01WelcomeApp\\Lab01WelcomeApp.csproj",
+              "RelativeDocumentMoniker": "Lab01WelcomeApp\\Lab01WelcomeApp.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day1\\Lab01WelcomeApp\\Lab01WelcomeApp\\Lab01WelcomeApp.csproj",
+              "RelativeToolTip": "Lab01WelcomeApp\\Lab01WelcomeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T09:09:10.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

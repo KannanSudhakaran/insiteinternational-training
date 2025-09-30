@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\bin\Debug\net8.0\Lab01WelcomeApp.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\bin\Debug\net8.0\Lab01WelcomeApp.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\bin\Debug\net8.0\Lab01WelcomeApp.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\bin\Debug\net8.0\Lab01WelcomeApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\bin\Debug\net8.0\Lab01WelcomeApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\Lab01WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\Lab01WelcomeApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\Lab01WelcomeApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\Lab01WelcomeApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\Lab01WelcomeApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\refint\Lab01WelcomeApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\Lab01WelcomeApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\Lab01WelcomeApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day1\Lab01WelcomeApp\Lab01WelcomeApp\obj\Debug\net8.0\ref\Lab01WelcomeApp.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab01CmdLineArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "Kannan abc pqr"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\bin\Debug\net8.0\Lab01CmdLineArgs.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\bin\Debug\net8.0\Lab01CmdLineArgs.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\bin\Debug\net8.0\Lab01CmdLineArgs.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\bin\Debug\net8.0\Lab01CmdLineArgs.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\bin\Debug\net8.0\Lab01CmdLineArgs.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\Lab01CmdLineArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\Lab01CmdLineArgs.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\Lab01CmdLineArgs.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\Lab01CmdLineArgs.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\Lab01CmdLineArgs.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\refint\Lab01CmdLineArgs.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\Lab01CmdLineArgs.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\Lab01CmdLineArgs.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab01CmdLineArgs\Lab01CmdLineArgs\obj\Debug\net8.0\ref\Lab01CmdLineArgs.dll

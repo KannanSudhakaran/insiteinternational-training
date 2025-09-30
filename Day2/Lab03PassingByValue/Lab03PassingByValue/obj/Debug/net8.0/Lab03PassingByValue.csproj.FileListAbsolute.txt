@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\bin\Debug\net8.0\Lab03PassingByValue.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\bin\Debug\net8.0\Lab03PassingByValue.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\bin\Debug\net8.0\Lab03PassingByValue.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\bin\Debug\net8.0\Lab03PassingByValue.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\bin\Debug\net8.0\Lab03PassingByValue.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\Lab03PassingByValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\Lab03PassingByValue.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\Lab03PassingByValue.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\Lab03PassingByValue.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\Lab03PassingByValue.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\refint\Lab03PassingByValue.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\Lab03PassingByValue.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\Lab03PassingByValue.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day2\Lab03PassingByValue\Lab03PassingByValue\obj\Debug\net8.0\ref\Lab03PassingByValue.dll

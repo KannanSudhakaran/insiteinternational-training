@@ -1,0 +1,14 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\bin\Debug\net8.0\Lab01StringBuilder.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\bin\Debug\net8.0\Lab01StringBuilder.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\bin\Debug\net8.0\Lab01StringBuilder.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\bin\Debug\net8.0\Lab01StringBuilder.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\bin\Debug\net8.0\Lab01StringBuilder.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\Lab01StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\Lab01StringBuilder.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\Lab01StringBuilder.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\Lab01StringBuilder.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\Lab01StringBuilder.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\refint\Lab01StringBuilder.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\Lab01StringBuilder.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\Lab01StringBuilder.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day3\Lab01StringBuilder\Lab01StringBuilder\obj\Debug\net8.0\ref\Lab01StringBuilder.dll
