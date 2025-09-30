@@ -45,8 +45,7 @@
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\ClassDiagram1.cd",
               "RelativeToolTip": "Lab02AccountConstructor\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-09-30T07:30:29.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T07:30:29.637Z"
             },
             {
               "$type": "Document",
@@ -56,7 +55,7 @@
               "RelativeDocumentMoniker": "Lab02AccountConstructor\\InsiteInternational\\Account.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\InsiteInternational\\Account.cs",
               "RelativeToolTip": "Lab02AccountConstructor\\InsiteInternational\\Account.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAywEgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T07:23:22.733Z",
               "EditorCaption": ""
@@ -67,9 +66,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\Program.cs",
               "RelativeDocumentMoniker": "Lab02AccountConstructor\\Program.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\Program.cs*",
-              "RelativeToolTip": "Lab02AccountConstructor\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day4\\Lab02AccountConstructor\\Lab02AccountConstructor\\Program.cs",
+              "RelativeToolTip": "Lab02AccountConstructor\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T07:16:58.17Z",
               "EditorCaption": ""

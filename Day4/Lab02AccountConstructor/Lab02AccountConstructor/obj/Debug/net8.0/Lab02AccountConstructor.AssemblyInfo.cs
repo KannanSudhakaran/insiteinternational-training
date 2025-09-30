@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02AccountConstructor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f4b2250aee8d6913b495662b2894348dda17401")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e97d84832e3d15380f7ec2519f43256b6be3cf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02AccountConstructor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02AccountConstructor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
