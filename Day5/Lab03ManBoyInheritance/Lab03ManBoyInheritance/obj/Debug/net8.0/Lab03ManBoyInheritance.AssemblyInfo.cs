@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab03ManBoyInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91e6a59ec5e1205c29a98e0fb8b59df9d981a5c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab2f85cc3dda648f60e40e4ce8bc988dd05775fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab03ManBoyInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab03ManBoyInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

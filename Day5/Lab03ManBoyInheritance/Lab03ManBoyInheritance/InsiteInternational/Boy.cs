@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Lab03ManBoyInheritance.InsiteInternational
 {
-    internal class Boy : Man
+    //extends from Man
+    internal class Boy :Man //Boy isA type of Man
     {
-        public override void Play()
+        public override  void Play()
         {
             Console.WriteLine("Boy is playing..");
         }
