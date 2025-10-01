@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day5\\Lab02CustomerOverridingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396BDD58-FF17-4B2A-B1F0-0995A8A0D129}|Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day5\\lab02customeroverridingapp\\lab02customeroverridingapp\\insiteinternational\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396BDD58-FF17-4B2A-B1F0-0995A8A0D129}|Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp.csproj|solutionrelative:lab02customeroverridingapp\\insiteinternational\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396BDD58-FF17-4B2A-B1F0-0995A8A0D129}|Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day5\\lab02customeroverridingapp\\lab02customeroverridingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396BDD58-FF17-4B2A-B1F0-0995A8A0D129}|Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp.csproj|solutionrelative:lab02customeroverridingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day5\\Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp\\InsiteInternational\\Customer.cs",
+              "RelativeDocumentMoniker": "Lab02CustomerOverridingApp\\InsiteInternational\\Customer.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day5\\Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp\\InsiteInternational\\Customer.cs",
+              "RelativeToolTip": "Lab02CustomerOverridingApp\\InsiteInternational\\Customer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:54:37.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day5\\Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02CustomerOverridingApp\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day5\\Lab02CustomerOverridingApp\\Lab02CustomerOverridingApp\\Program.cs",
+              "RelativeToolTip": "Lab02CustomerOverridingApp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:54:06.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

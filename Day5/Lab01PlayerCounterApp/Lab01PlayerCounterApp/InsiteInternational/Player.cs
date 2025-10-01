@@ -19,6 +19,8 @@ namespace Lab01PlayerCounterApp.InsiteInternational
             _age = age;
             _count += 1;
             Console.WriteLine("player created(overlaod2)");
+
+            
          
         }
 
