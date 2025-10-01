@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab01PlayerCounterApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2821b7d28fde099ac2b707762e82594d1f12cdfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcc4229c6b87935ba41cada269cf0426b65f4b47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab01PlayerCounterApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab01PlayerCounterApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

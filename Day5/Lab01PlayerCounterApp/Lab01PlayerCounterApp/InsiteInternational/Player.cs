@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -40,6 +41,7 @@ namespace Lab01PlayerCounterApp.InsiteInternational
         public int Count {
 
             get {
+               
                 return _count;
             }
         }
@@ -47,7 +49,10 @@ namespace Lab01PlayerCounterApp.InsiteInternational
         //static method can only access
         //static data
         //static method only accessed via classname
-        public static int GetPlayerCount() {
+       //static method affinity ot static data
+        public static int GetPlayerCount()
+        {
+            
             return _count;
         }
 

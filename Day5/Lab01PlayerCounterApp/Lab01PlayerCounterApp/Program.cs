@@ -1,13 +1,17 @@
 ﻿using Lab01PlayerCounterApp.InsiteInternational;
+using System.Runtime.CompilerServices;
 
 namespace Lab01PlayerCounterApp
 {
     internal class Program
     {
+        //int foo = 100;//instance variable
+        //static int bar = 200;
         static void Main(string[] args)
         {
-          
-            // CaseStudy1();
+           
+           
+            CaseStudy1();
 
             //static method
 
@@ -17,7 +21,7 @@ namespace Lab01PlayerCounterApp
 
             Console.WriteLine(Player.GetPlayerCount());
 
-            
+
 
 
 
