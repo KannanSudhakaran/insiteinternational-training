@@ -1,0 +1,15 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\bin\Debug\net8.0\Lab01PlayerCounterApp.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\bin\Debug\net8.0\Lab01PlayerCounterApp.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\bin\Debug\net8.0\Lab01PlayerCounterApp.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\bin\Debug\net8.0\Lab01PlayerCounterApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\bin\Debug\net8.0\Lab01PlayerCounterApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\refint\Lab01PlayerCounterApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\Lab01PlayerCounterApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day5\Lab01PlayerCounterApp\Lab01PlayerCounterApp\obj\Debug\net8.0\ref\Lab01PlayerCounterApp.dll
