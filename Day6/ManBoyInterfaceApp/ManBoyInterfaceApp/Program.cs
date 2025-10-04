@@ -13,7 +13,9 @@ namespace ManBoyInterfaceApp
             AtTheParty(boy);
 
             AtTheMovies(boy);
-          //  AtTheMovies(man);//error
+            //  AtTheMovies(man);//error
+
+            AtTheMovies(new Manager());
             
         }
 

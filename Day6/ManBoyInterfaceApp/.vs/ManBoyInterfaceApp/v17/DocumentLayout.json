@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day6\\manboyinterfaceapp\\manboyinterfaceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|solutionrelative:manboyinterfaceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day6\\manboyinterfaceapp\\manboyinterfaceapp\\insiteinternaitonal\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|solutionrelative:manboyinterfaceapp\\insiteinternaitonal\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day6\\manboyinterfaceapp\\manboyinterfaceapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|solutionrelative:manboyinterfaceapp\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day6\\manboyinterfaceapp\\manboyinterfaceapp\\insiteinternaitonal\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|solutionrelative:manboyinterfaceapp\\insiteinternaitonal\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day6\\manboyinterfaceapp\\manboyinterfaceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|solutionrelative:manboyinterfaceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1580FA1-E015-42D1-925E-633CF66013FE}|ManBoyInterfaceApp\\ManBoyInterfaceApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day6\\manboyinterfaceapp\\manboyinterfaceapp\\insiteinternaitonal\\boy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,32 +58,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "ManBoyInterfaceApp\\ClassDiagram1.cd",
-              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\ClassDiagram1.cd",
-              "RelativeToolTip": "ManBoyInterfaceApp\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-10-04T09:01:46.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Boy.cs",
-              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
-              "RelativeDocumentMoniker": "ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
-              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
-              "RelativeToolTip": "ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Manager.cs",
+              "RelativeDocumentMoniker": "ManBoyInterfaceApp\\InsiteInternaitonal\\Manager.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Manager.cs",
+              "RelativeToolTip": "ManBoyInterfaceApp\\InsiteInternaitonal\\Manager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T08:58:46.436Z",
+              "WhenOpened": "2025-10-04T09:15:18.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Human.cs",
+              "RelativeDocumentMoniker": "ManBoyInterfaceApp\\InsiteInternaitonal\\Human.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Human.cs",
+              "RelativeToolTip": "ManBoyInterfaceApp\\InsiteInternaitonal\\Human.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T09:14:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Man.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Man.cs",
               "RelativeDocumentMoniker": "ManBoyInterfaceApp\\InsiteInternaitonal\\Man.cs",
@@ -88,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IEmotionable.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\IEmotionable.cs",
               "RelativeDocumentMoniker": "ManBoyInterfaceApp\\InsiteInternaitonal\\IEmotionable.cs",
@@ -101,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IMannerable.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\IMannerable.cs",
               "RelativeDocumentMoniker": "ManBoyInterfaceApp\\InsiteInternaitonal\\IMannerable.cs",
@@ -114,15 +123,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\Program.cs",
               "RelativeDocumentMoniker": "ManBoyInterfaceApp\\Program.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\Program.cs",
               "RelativeToolTip": "ManBoyInterfaceApp\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T08:56:37.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ManBoyInterfaceApp\\ClassDiagram1.cd",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\ClassDiagram1.cd",
+              "RelativeToolTip": "ManBoyInterfaceApp\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-04T09:01:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boy.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
+              "RelativeDocumentMoniker": "ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day6\\ManBoyInterfaceApp\\ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
+              "RelativeToolTip": "ManBoyInterfaceApp\\InsiteInternaitonal\\Boy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T08:58:46.436Z",
               "EditorCaption": ""
             }
           ]

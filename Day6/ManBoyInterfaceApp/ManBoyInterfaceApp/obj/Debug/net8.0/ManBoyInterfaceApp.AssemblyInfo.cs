@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManBoyInterfaceApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+800aaf6fa38706080b3261b93d4eb0ff8c648913")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981cc64179fb494da62041d9e1635d50110ab23e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManBoyInterfaceApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManBoyInterfaceApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

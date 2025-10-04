@@ -16,6 +16,21 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
+  <Class Name="ManBoyInterfaceApp.InsiteInternaitonal.Human">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>InsiteInternaitonal\Human.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ManBoyInterfaceApp.InsiteInternaitonal.Manager" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>InsiteInternaitonal\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Interface Name="ManBoyInterfaceApp.InsiteInternaitonal.IEmotionable">
     <Position X="5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
