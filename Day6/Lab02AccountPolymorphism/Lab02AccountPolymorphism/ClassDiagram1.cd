@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab02AccountPolymorphism.InsiteInternational.Account">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InsiteInternational\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02AccountPolymorphism.InsiteInternational.CurrentAccount">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>InsiteInternational\CurrentAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02AccountPolymorphism.InsiteInternational.SavingAccount">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InsiteInternational\SavingAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
