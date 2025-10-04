@@ -1,0 +1,15 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\bin\Debug\net8.0\Lab03InterfaceApp.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\bin\Debug\net8.0\Lab03InterfaceApp.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\bin\Debug\net8.0\Lab03InterfaceApp.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\bin\Debug\net8.0\Lab03InterfaceApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\bin\Debug\net8.0\Lab03InterfaceApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\refint\Lab03InterfaceApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\Lab03InterfaceApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\Lab03InterfaceApp\Lab03InterfaceApp\obj\Debug\net8.0\ref\Lab03InterfaceApp.dll

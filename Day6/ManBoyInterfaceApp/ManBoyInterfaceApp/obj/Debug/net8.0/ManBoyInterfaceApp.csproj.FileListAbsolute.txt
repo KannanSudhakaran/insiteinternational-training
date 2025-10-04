@@ -1,0 +1,15 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\bin\Debug\net8.0\ManBoyInterfaceApp.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\bin\Debug\net8.0\ManBoyInterfaceApp.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\bin\Debug\net8.0\ManBoyInterfaceApp.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\bin\Debug\net8.0\ManBoyInterfaceApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\bin\Debug\net8.0\ManBoyInterfaceApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\refint\ManBoyInterfaceApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ManBoyInterfaceApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day6\ManBoyInterfaceApp\ManBoyInterfaceApp\obj\Debug\net8.0\ref\ManBoyInterfaceApp.dll
