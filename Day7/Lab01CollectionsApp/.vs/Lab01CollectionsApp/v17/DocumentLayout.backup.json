@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{67DBC372-23EB-43E3-BDBA-0F247921436D}|Lab01CollectionsApp\\Lab01CollectionsApp.csproj|solutionrelative:lab01collectionsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67DBC372-23EB-43E3-BDBA-0F247921436D}|Lab01CollectionsApp\\Lab01CollectionsApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day7\\lab01collectionsapp\\lab01collectionsapp\\lab01collectionsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{67DBC372-23EB-43E3-BDBA-0F247921436D}|Lab01CollectionsApp\\Lab01CollectionsApp.csproj|solutionrelative:lab01collectionsapp\\lab01collectionsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67DBC372-23EB-43E3-BDBA-0F247921436D}|Lab01CollectionsApp\\Lab01CollectionsApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day7\\lab01collectionsapp\\lab01collectionsapp\\insiteinternational\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67DBC372-23EB-43E3-BDBA-0F247921436D}|Lab01CollectionsApp\\Lab01CollectionsApp.csproj|solutionrelative:lab01collectionsapp\\insiteinternational\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DBC372-23EB-43E3-BDBA-0F247921436D}|Lab01CollectionsApp\\Lab01CollectionsApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day7\\lab01collectionsapp\\lab01collectionsapp\\lab01collectionsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67DBC372-23EB-43E3-BDBA-0F247921436D}|Lab01CollectionsApp\\Lab01CollectionsApp.csproj|solutionrelative:lab01collectionsapp\\lab01collectionsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,26 +38,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lab01CollectionsApp",
+              "DocumentIndex": 2,
+              "Title": "Lab01CollectionsApp.csproj",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day7\\Lab01CollectionsApp\\Lab01CollectionsApp\\Lab01CollectionsApp.csproj",
               "RelativeDocumentMoniker": "Lab01CollectionsApp\\Lab01CollectionsApp.csproj",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day7\\Lab01CollectionsApp\\Lab01CollectionsApp\\Lab01CollectionsApp.csproj",
               "RelativeToolTip": "Lab01CollectionsApp\\Lab01CollectionsApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T06:08:39.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T06:08:39.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day7\\Lab01CollectionsApp\\Lab01CollectionsApp\\InsiteInternational\\OrderItem.cs",
               "RelativeDocumentMoniker": "Lab01CollectionsApp\\InsiteInternational\\OrderItem.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day7\\Lab01CollectionsApp\\Lab01CollectionsApp\\InsiteInternational\\OrderItem.cs",
               "RelativeToolTip": "Lab01CollectionsApp\\InsiteInternational\\OrderItem.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T05:57:29.112Z",
               "EditorCaption": ""
@@ -70,7 +69,7 @@
               "RelativeDocumentMoniker": "Lab01CollectionsApp\\Program.cs",
               "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day7\\Lab01CollectionsApp\\Lab01CollectionsApp\\Program.cs",
               "RelativeToolTip": "Lab01CollectionsApp\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwBwAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T05:56:56.535Z",
               "EditorCaption": ""

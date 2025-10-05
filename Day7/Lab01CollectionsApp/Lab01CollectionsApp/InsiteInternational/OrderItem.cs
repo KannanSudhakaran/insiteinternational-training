@@ -21,5 +21,18 @@ namespace Lab01CollectionsApp.InsiteInternational
         public double CalcualteCost() { 
           return  Quantity* UnitPrice;
         }
+
+        //override hashCode and Equals
+
+        public override int GetHashCode()
+        {
+            return this.Id;
+        }
+
+        public override bool Equals(object obj)
+        {
+            OrderItem item = (OrderItem) obj;
+            return (this.Id == item.Id && this.ItemName == item.ItemName);
+        }
     }
 }

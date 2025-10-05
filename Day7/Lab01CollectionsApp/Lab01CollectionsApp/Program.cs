@@ -14,7 +14,83 @@ namespace Lab01CollectionsApp
 
             // CaseStudy2();
 
-            CaseStudy3();
+            // CaseStudy3();
+
+            //CaseStudy4();
+
+            //CaseStudy5();
+
+            CaseStudy6();
+        }
+
+        private static void CaseStudy6()
+        {
+            
+            Dictionary<string,int> map=new Dictionary<string,int>();
+            map["IT"] = 10;
+            map["Sales"] = 20;
+            map["Marketing"] = 30;
+
+            Console.WriteLine(map["Marketing"]);
+
+            foreach (string key in map.Keys)
+            {
+                Console.WriteLine($"deptname is {key} ,head count is {map[key]}");
+            }
+
+            if (map.ContainsKey("Devops"))
+            {
+                Console.WriteLine("Devops dept found");
+            }
+            else {
+                Console.WriteLine("Devops dept not found");
+            }
+
+        }
+
+        private static void CaseStudy5()
+        {
+            var basketSet = new HashSet<OrderItem>();
+          
+            basketSet.Add(new OrderItem
+            {
+                Id = 1,
+                ItemName = "Milk",
+                Quantity = 2,
+                UnitPrice = 20
+            });
+            basketSet.Add(new OrderItem
+            {
+                Id = 2,
+                ItemName = "Bisucits",
+                Quantity = 3,
+                UnitPrice = 5
+            });
+             basketSet.Add(new OrderItem
+            {
+                Id = 2,
+                ItemName = "Bisucits",
+                Quantity = 3,
+                UnitPrice = 5
+            });
+
+            Console.WriteLine(basketSet.Count);
+
+        }
+
+        private static void CaseStudy4()
+        {
+           var  namesSet = new HashSet<string>();
+            namesSet.Add("Insite");
+            namesSet.Add("Kuzaimah");
+            namesSet.Add("Kuzaimah");
+            namesSet.Add("Kuzaimah");
+
+            Console.WriteLine(namesSet.Count);
+            foreach (string temp in namesSet)
+            {
+                Console.WriteLine(temp);
+            }
         }
 
         private static void CaseStudy3()
