@@ -1,4 +1,6 @@
-﻿namespace Lab02SimpleDelegate
+﻿
+
+namespace Lab02SimpleDelegate
 {
     delegate void DPrintMessage(string name);
 
@@ -10,15 +12,47 @@
             //ITransaction txn==> txn expects object of a class which implentents ITransaction
             //DSomeDelegate obj==> obj expects a function with same signature of delegate
 
+
+            // Casestudy1();
+
+            // CasStudy2();
+
+
+            // PrintWizard(PrintGoodBye);
+
+           
+
+        }
+
+
+        //callback
+        static void PrintWizard(DPrintMessage callBack) {
+
+            Console.WriteLine("inside printing wizard");
+            Console.WriteLine("doing printing opertonan..");
+            Console.WriteLine("notifyonce its done");
+            callBack.Invoke("PrintWizard");
+        
+        
+        }
+        private static void CasStudy2()
+        {
+            DPrintMessage fnPointer = PrintGoodBye;
+            fnPointer += PrintHello;
+            fnPointer += PrintGoodBye;
+
+            fnPointer.Invoke("Maged");
+
+        }
+
+        private static void Casestudy1()
+        {
             DPrintMessage fnPointer;// x expects a function with same signature of delegate
             fnPointer = PrintGoodBye;
 
             fnPointer.Invoke("Kuzaimah");
             fnPointer.Invoke("Maged");
-
-
         }
-
 
         static void PrintHello(string name) {
             Console.WriteLine($"Hello says {name}");

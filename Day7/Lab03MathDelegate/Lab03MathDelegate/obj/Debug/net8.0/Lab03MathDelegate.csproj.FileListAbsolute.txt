@@ -1,0 +1,15 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\bin\Debug\net8.0\Lab03MathDelegate.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\bin\Debug\net8.0\Lab03MathDelegate.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\bin\Debug\net8.0\Lab03MathDelegate.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\bin\Debug\net8.0\Lab03MathDelegate.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\bin\Debug\net8.0\Lab03MathDelegate.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\refint\Lab03MathDelegate.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\Lab03MathDelegate.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab03MathDelegate\Lab03MathDelegate\obj\Debug\net8.0\ref\Lab03MathDelegate.dll
