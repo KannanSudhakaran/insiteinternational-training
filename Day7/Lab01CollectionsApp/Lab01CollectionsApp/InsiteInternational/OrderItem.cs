@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab01CollectionsApp.InsiteInternational
+{
+    internal class OrderItem
+    {
+        public int Id { get; set; }
+        public string ItemName { get; set; }
+
+        public int Quantity { get; set; }
+        public int UnitPrice { get; set; }
+
+        public OrderItem() {
+            Console.WriteLine("order item created");
+        }
+
+        public double CalcualteCost() { 
+          return  Quantity* UnitPrice;
+        }
+    }
+}

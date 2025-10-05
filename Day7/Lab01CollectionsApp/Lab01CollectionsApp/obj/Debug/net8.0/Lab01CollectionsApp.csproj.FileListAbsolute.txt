@@ -1,0 +1,15 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\bin\Debug\net8.0\Lab01CollectionsApp.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\bin\Debug\net8.0\Lab01CollectionsApp.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\bin\Debug\net8.0\Lab01CollectionsApp.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\bin\Debug\net8.0\Lab01CollectionsApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\bin\Debug\net8.0\Lab01CollectionsApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\refint\Lab01CollectionsApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\Lab01CollectionsApp.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day7\Lab01CollectionsApp\Lab01CollectionsApp\obj\Debug\net8.0\ref\Lab01CollectionsApp.dll
