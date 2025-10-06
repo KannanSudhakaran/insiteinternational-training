@@ -6,14 +6,15 @@
         static void Main(string[] args)
         {
             //lamda function
-            MyDMath x = (a, b) =>
-            {
+            //MyDMath x = (a, b) =>
+            //{
 
-                Console.WriteLine($"{a} / {b} = {a / b}");
-            };
+            //    Console.WriteLine($"{a} / {b} = {a / b}");
+            //};
 
-            x(100, 5);
+            // x(100, 5);
 
+            CaseSTudy1();
 
         }
 

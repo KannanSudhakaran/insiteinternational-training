@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventinwinformapp\\eventinwinformapp\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|solutionrelative:eventinwinformapp\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventinwinformapp\\eventinwinformapp\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|solutionrelative:eventinwinformapp\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventinwinformapp\\eventinwinformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|solutionrelative:eventinwinformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventinwinformapp\\eventinwinformapp\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|solutionrelative:eventinwinformapp\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventinwinformapp\\eventinwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|solutionrelative:eventinwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventinwinformapp\\eventinwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E16A20-EF87-464D-82D3-467EE1F9A774}|EventInWinFormApp\\EventInWinFormApp.csproj|solutionrelative:eventinwinformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomeForm.Designer.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\WelcomeForm.Designer.cs",
+              "RelativeDocumentMoniker": "EventInWinFormApp\\WelcomeForm.Designer.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\WelcomeForm.Designer.cs",
+              "RelativeToolTip": "EventInWinFormApp\\WelcomeForm.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:50:14.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "EventInWinFormApp\\WelcomeForm.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\WelcomeForm.cs",
+              "RelativeToolTip": "EventInWinFormApp\\WelcomeForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:48:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "EventInWinFormApp\\WelcomeForm.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "EventInWinFormApp\\WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:48:00.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\Program.cs",
+              "RelativeDocumentMoniker": "EventInWinFormApp\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\Program.cs",
+              "RelativeToolTip": "EventInWinFormApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:46:36.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EventInWinFormApp\\Form1.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\Form1.cs",
+              "RelativeToolTip": "EventInWinFormApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:47:10.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "EventInWinFormApp\\Form1.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventInWinFormApp\\EventInWinFormApp\\Form1.cs [Design]",
+              "RelativeToolTip": "EventInWinFormApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:46:20.573Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
