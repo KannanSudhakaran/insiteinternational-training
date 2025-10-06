@@ -1,0 +1,12 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\bin\Debug\net8.0\AccountPublisherLib.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\bin\Debug\net8.0\AccountPublisherLib.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\bin\Debug\net8.0\AccountPublisherLib.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\AccountPublisherLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\AccountPublisherLib.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\AccountPublisherLib.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\AccountPublisherLib.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\AccountPublisherLib.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\AccountPublisherLib.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\refint\AccountPublisherLib.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\AccountPublisherLib.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\ObserverPatternSolution\AccountPublisherLib\obj\Debug\net8.0\ref\AccountPublisherLib.dll

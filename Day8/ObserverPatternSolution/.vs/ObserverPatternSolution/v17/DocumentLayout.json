@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{888CE5A4-0B06-4CC2-9825-F42160236B29}|IndianBankClient\\IndianBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\indianbankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888CE5A4-0B06-4CC2-9825-F42160236B29}|IndianBankClient\\IndianBankClient.csproj|solutionrelative:indianbankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888CE5A4-0B06-4CC2-9825-F42160236B29}|IndianBankClient\\IndianBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\indianbankclient\\noficatiosn\\telegramnofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888CE5A4-0B06-4CC2-9825-F42160236B29}|IndianBankClient\\IndianBankClient.csproj|solutionrelative:indianbankclient\\noficatiosn\\telegramnofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888CE5A4-0B06-4CC2-9825-F42160236B29}|IndianBankClient\\IndianBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\indianbankclient\\noficatiosn\\smsnofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888CE5A4-0B06-4CC2-9825-F42160236B29}|IndianBankClient\\IndianBankClient.csproj|solutionrelative:indianbankclient\\noficatiosn\\smsnofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370FC80-EC69-4E0E-A5AE-2B6D889B4C5F}|AccountPublisherLib\\AccountPublisherLib.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\accountpublisherlib\\insiteinternational\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370FC80-EC69-4E0E-A5AE-2B6D889B4C5F}|AccountPublisherLib\\AccountPublisherLib.csproj|solutionrelative:accountpublisherlib\\insiteinternational\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370FC80-EC69-4E0E-A5AE-2B6D889B4C5F}|AccountPublisherLib\\AccountPublisherLib.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\accountpublisherlib\\insiteinternational\\iaccountsubcriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370FC80-EC69-4E0E-A5AE-2B6D889B4C5F}|AccountPublisherLib\\AccountPublisherLib.csproj|solutionrelative:accountpublisherlib\\insiteinternational\\iaccountsubcriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12073524-3012-4E10-9AE0-29F010C64A22}|SaudiBankClient\\SaudiBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\saudibankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12073524-3012-4E10-9AE0-29F010C64A22}|SaudiBankClient\\SaudiBankClient.csproj|solutionrelative:saudibankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12073524-3012-4E10-9AE0-29F010C64A22}|SaudiBankClient\\SaudiBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\saudibankclient\\noficationsservices\\viberaccountsubcriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12073524-3012-4E10-9AE0-29F010C64A22}|SaudiBankClient\\SaudiBankClient.csproj|solutionrelative:saudibankclient\\noficationsservices\\viberaccountsubcriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12073524-3012-4E10-9AE0-29F010C64A22}|SaudiBankClient\\SaudiBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\saudibankclient\\noficationsservices\\emailaccountsubcriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12073524-3012-4E10-9AE0-29F010C64A22}|SaudiBankClient\\SaudiBankClient.csproj|solutionrelative:saudibankclient\\noficationsservices\\emailaccountsubcriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2370FC80-EC69-4E0E-A5AE-2B6D889B4C5F}|AccountPublisherLib\\AccountPublisherLib.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\observerpatternsolution\\accountpublisherlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2370FC80-EC69-4E0E-A5AE-2B6D889B4C5F}|AccountPublisherLib\\AccountPublisherLib.csproj|solutionrelative:accountpublisherlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\IndianBankClient\\Program.cs",
+              "RelativeDocumentMoniker": "IndianBankClient\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\IndianBankClient\\Program.cs",
+              "RelativeToolTip": "IndianBankClient\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:44:05.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailAccountSubcriber.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\SaudiBankClient\\NoficationsServices\\EmailAccountSubcriber.cs",
+              "RelativeDocumentMoniker": "SaudiBankClient\\NoficationsServices\\EmailAccountSubcriber.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\SaudiBankClient\\NoficationsServices\\EmailAccountSubcriber.cs",
+              "RelativeToolTip": "SaudiBankClient\\NoficationsServices\\EmailAccountSubcriber.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:50:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\AccountPublisherLib\\InsiteInternational\\Account.cs",
+              "RelativeDocumentMoniker": "AccountPublisherLib\\InsiteInternational\\Account.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\AccountPublisherLib\\InsiteInternational\\Account.cs",
+              "RelativeToolTip": "AccountPublisherLib\\InsiteInternational\\Account.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAxwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:25:43.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountSubcriber.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\AccountPublisherLib\\InsiteInternational\\IAccountSubcriber.cs",
+              "RelativeDocumentMoniker": "AccountPublisherLib\\InsiteInternational\\IAccountSubcriber.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\AccountPublisherLib\\InsiteInternational\\IAccountSubcriber.cs",
+              "RelativeToolTip": "AccountPublisherLib\\InsiteInternational\\IAccountSubcriber.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:27:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmsNOfication.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\IndianBankClient\\Noficatiosn\\SmsNOfication.cs",
+              "RelativeDocumentMoniker": "IndianBankClient\\Noficatiosn\\SmsNOfication.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\IndianBankClient\\Noficatiosn\\SmsNOfication.cs",
+              "RelativeToolTip": "IndianBankClient\\Noficatiosn\\SmsNOfication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:07:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelegramNofication.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\IndianBankClient\\Noficatiosn\\TelegramNofication.cs",
+              "RelativeDocumentMoniker": "IndianBankClient\\Noficatiosn\\TelegramNofication.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\IndianBankClient\\Noficatiosn\\TelegramNofication.cs",
+              "RelativeToolTip": "IndianBankClient\\Noficatiosn\\TelegramNofication.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:06:00.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\SaudiBankClient\\Program.cs",
+              "RelativeDocumentMoniker": "SaudiBankClient\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\SaudiBankClient\\Program.cs",
+              "RelativeToolTip": "SaudiBankClient\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:43:17.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViberAccountSubcriber.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\SaudiBankClient\\NoficationsServices\\ViberAccountSubcriber.cs",
+              "RelativeDocumentMoniker": "SaudiBankClient\\NoficationsServices\\ViberAccountSubcriber.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\SaudiBankClient\\NoficationsServices\\ViberAccountSubcriber.cs",
+              "RelativeToolTip": "SaudiBankClient\\NoficationsServices\\ViberAccountSubcriber.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:46:20.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\AccountPublisherLib\\Class1.cs",
+              "RelativeDocumentMoniker": "AccountPublisherLib\\Class1.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\ObserverPatternSolution\\AccountPublisherLib\\Class1.cs",
+              "RelativeToolTip": "AccountPublisherLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:24:56.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IndianBankClient/1.0.0": {
+        "dependencies": {
+          "AccountPublisherLib": "1.0.0"
+        },
+        "runtime": {
+          "IndianBankClient.dll": {}
+        }
+      },
+      "AccountPublisherLib/1.0.0": {
+        "runtime": {
+          "AccountPublisherLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndianBankClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccountPublisherLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
