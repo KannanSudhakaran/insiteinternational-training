@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95AEAD-7B89-432A-BC3C-517A53189DFF}|SaudiBankClient\\SaudiBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventbasedobserverpattern\\saudibankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95AEAD-7B89-432A-BC3C-517A53189DFF}|SaudiBankClient\\SaudiBankClient.csproj|solutionrelative:saudibankclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2845C4E7-D212-4D43-ACC9-13D3DBA1F882}|EventPublisherLib\\EventPublisherLib.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventbasedobserverpattern\\eventpublisherlib\\insiteinternational\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2845C4E7-D212-4D43-ACC9-13D3DBA1F882}|EventPublisherLib\\EventPublisherLib.csproj|solutionrelative:eventpublisherlib\\insiteinternational\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95AEAD-7B89-432A-BC3C-517A53189DFF}|SaudiBankClient\\SaudiBankClient.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventbasedobserverpattern\\saudibankclient\\slacknotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA95AEAD-7B89-432A-BC3C-517A53189DFF}|SaudiBankClient\\SaudiBankClient.csproj|solutionrelative:saudibankclient\\slacknotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2845C4E7-D212-4D43-ACC9-13D3DBA1F882}|EventPublisherLib\\EventPublisherLib.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventbasedobserverpattern\\eventpublisherlib\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{2845C4E7-D212-4D43-ACC9-13D3DBA1F882}|EventPublisherLib\\EventPublisherLib.csproj|solutionrelative:eventpublisherlib\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2845C4E7-D212-4D43-ACC9-13D3DBA1F882}|EventPublisherLib\\EventPublisherLib.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day8\\eventbasedobserverpattern\\eventpublisherlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2845C4E7-D212-4D43-ACC9-13D3DBA1F882}|EventPublisherLib\\EventPublisherLib.csproj|solutionrelative:eventpublisherlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SlackNotification.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\SaudiBankClient\\SlackNotification.cs",
+              "RelativeDocumentMoniker": "SaudiBankClient\\SlackNotification.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\SaudiBankClient\\SlackNotification.cs",
+              "RelativeToolTip": "SaudiBankClient\\SlackNotification.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:28:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\EventPublisherLib\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "EventPublisherLib\\ClassDiagram1.cd",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\EventPublisherLib\\ClassDiagram1.cd",
+              "RelativeToolTip": "EventPublisherLib\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-06T08:16:40.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\SaudiBankClient\\Program.cs",
+              "RelativeDocumentMoniker": "SaudiBankClient\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\SaudiBankClient\\Program.cs",
+              "RelativeToolTip": "SaudiBankClient\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:14:25.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\EventPublisherLib\\InsiteInternational\\Account.cs",
+              "RelativeDocumentMoniker": "EventPublisherLib\\InsiteInternational\\Account.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\EventPublisherLib\\InsiteInternational\\Account.cs",
+              "RelativeToolTip": "EventPublisherLib\\InsiteInternational\\Account.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:08:07.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\EventPublisherLib\\Class1.cs",
+              "RelativeDocumentMoniker": "EventPublisherLib\\Class1.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day8\\EventBasedObserverPattern\\EventPublisherLib\\Class1.cs",
+              "RelativeToolTip": "EventPublisherLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:07:26.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

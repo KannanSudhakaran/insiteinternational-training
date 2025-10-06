@@ -1,0 +1,12 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\bin\Debug\net8.0\EventPublisherLib.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\bin\Debug\net8.0\EventPublisherLib.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\bin\Debug\net8.0\EventPublisherLib.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\EventPublisherLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\EventPublisherLib.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\EventPublisherLib.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\EventPublisherLib.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\EventPublisherLib.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\EventPublisherLib.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\refint\EventPublisherLib.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\EventPublisherLib.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day8\EventBasedObserverPattern\EventPublisherLib\obj\Debug\net8.0\ref\EventPublisherLib.dll
