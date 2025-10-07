@@ -1,0 +1,15 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\bin\Debug\net8.0\Lab03InputOut.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\bin\Debug\net8.0\Lab03InputOut.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\bin\Debug\net8.0\Lab03InputOut.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\bin\Debug\net8.0\Lab03InputOut.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\bin\Debug\net8.0\Lab03InputOut.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\refint\Lab03InputOut.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\Lab03InputOut.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\Lab03InputOut\Lab03InputOut\obj\Debug\net8.0\ref\Lab03InputOut.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab03InputOut": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\welcome.html"
+    }
+  }
+}
