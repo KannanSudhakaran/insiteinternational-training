@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day9\\ienumerableandlinq\\ienumerableandlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|solutionrelative:ienumerableandlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day9\\ienumerableandlinq\\ienumerableandlinq\\extensionmethods\\accountextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|solutionrelative:ienumerableandlinq\\extensionmethods\\accountextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day9\\ienumerableandlinq\\ienumerableandlinq\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|solutionrelative:ienumerableandlinq\\domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day9\\ienumerableandlinq\\ienumerableandlinq\\extensionmethods\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|solutionrelative:ienumerableandlinq\\extensionmethods\\stringextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day9\\ienumerableandlinq\\ienumerableandlinq\\ienumerableandlinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6727805F-5D31-4C1E-BE64-0CEBC619F147}|IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj|solutionrelative:ienumerableandlinq\\ienumerableandlinq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountExtension.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\ExtensionMethods\\AccountExtension.cs",
+              "RelativeDocumentMoniker": "IEnumerableAndLINQ\\ExtensionMethods\\AccountExtension.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\ExtensionMethods\\AccountExtension.cs",
+              "RelativeToolTip": "IEnumerableAndLINQ\\ExtensionMethods\\AccountExtension.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA2wBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:03:56.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\Domain\\Account.cs",
+              "RelativeDocumentMoniker": "IEnumerableAndLINQ\\Domain\\Account.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\Domain\\Account.cs",
+              "RelativeToolTip": "IEnumerableAndLINQ\\Domain\\Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T07:03:41.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringExtension.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\ExtensionMethods\\StringExtension.cs",
+              "RelativeDocumentMoniker": "IEnumerableAndLINQ\\ExtensionMethods\\StringExtension.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\ExtensionMethods\\StringExtension.cs",
+              "RelativeToolTip": "IEnumerableAndLINQ\\ExtensionMethods\\StringExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:56:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnumerableAndLINQ",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj",
+              "RelativeDocumentMoniker": "IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj",
+              "RelativeToolTip": "IEnumerableAndLINQ\\IEnumerableAndLINQ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T06:34:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerableAndLINQ\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day9\\IEnumerableAndLINQ\\IEnumerableAndLINQ\\Program.cs",
+              "RelativeToolTip": "IEnumerableAndLINQ\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA/wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:31:41.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

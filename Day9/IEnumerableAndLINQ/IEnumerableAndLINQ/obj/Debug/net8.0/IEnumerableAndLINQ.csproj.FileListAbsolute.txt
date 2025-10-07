@@ -1,0 +1,15 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\bin\Debug\net8.0\IEnumerableAndLINQ.exe
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\bin\Debug\net8.0\IEnumerableAndLINQ.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\bin\Debug\net8.0\IEnumerableAndLINQ.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\bin\Debug\net8.0\IEnumerableAndLINQ.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\bin\Debug\net8.0\IEnumerableAndLINQ.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.AssemblyInfoInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.AssemblyInfo.cs
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.csproj.CoreCompileInputs.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.sourcelink.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\refint\IEnumerableAndLINQ.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.pdb
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\IEnumerableAndLINQ.genruntimeconfig.cache
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day9\IEnumerableAndLINQ\IEnumerableAndLINQ\obj\Debug\net8.0\ref\IEnumerableAndLINQ.dll
