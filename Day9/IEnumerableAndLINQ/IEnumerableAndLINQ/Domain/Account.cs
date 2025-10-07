@@ -32,6 +32,10 @@ namespace Lab02AccountPolymorphism.InsiteInternational
         public string Name { get { return _name; } }
         public double Balance { get { return _balance; } }
 
+        public override string ToString()
+        {
+            return $"id {this.Accno} name is {this.Name}";
+        }
 
     }
 }
