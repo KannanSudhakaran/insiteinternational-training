@@ -1,0 +1,7 @@
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day10\WelcomeMVCApp\WelcomeMVCApp\obj\Release\net8.0\linux-x64\PubTmp\Out\WelcomeMVCApp
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day10\WelcomeMVCApp\WelcomeMVCApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day10\WelcomeMVCApp\WelcomeMVCApp\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day10\WelcomeMVCApp\WelcomeMVCApp\obj\Release\net8.0\linux-x64\PubTmp\Out\WelcomeMVCApp.dll
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day10\WelcomeMVCApp\WelcomeMVCApp\obj\Release\net8.0\linux-x64\PubTmp\Out\WelcomeMVCApp.deps.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day10\WelcomeMVCApp\WelcomeMVCApp\obj\Release\net8.0\linux-x64\PubTmp\Out\WelcomeMVCApp.runtimeconfig.json
+C:\LiveSessionKoenig\Csharp_InsiteIntl_training\Day10\WelcomeMVCApp\WelcomeMVCApp\obj\Release\net8.0\linux-x64\PubTmp\Out\WelcomeMVCApp.pdb

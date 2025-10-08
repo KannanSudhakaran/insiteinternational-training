@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day10\\welcomewebapi\\welcomewebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|solutionrelative:welcomewebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day10\\welcomewebapi\\welcomewebapi\\services\\customerdataservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|solutionrelative:welcomewebapi\\services\\customerdataservcie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day10\\welcomewebapi\\welcomewebapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|solutionrelative:welcomewebapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day10\\welcomewebapi\\welcomewebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|solutionrelative:welcomewebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day10\\welcomewebapi\\welcomewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|solutionrelative:welcomewebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|c:\\livesessionkoenig\\csharp_insiteintl_training\\day10\\welcomewebapi\\welcomewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A1BF1E-CA19-43CF-A9BC-5DC562DEDC9A}|WelcomeWebAPI\\WelcomeWebAPI.csproj|solutionrelative:welcomewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDataServcie.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Services\\CustomerDataServcie.cs",
+              "RelativeDocumentMoniker": "WelcomeWebAPI\\Services\\CustomerDataServcie.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Services\\CustomerDataServcie.cs",
+              "RelativeToolTip": "WelcomeWebAPI\\Services\\CustomerDataServcie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:14:51.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "WelcomeWebAPI\\Model\\Customer.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Model\\Customer.cs",
+              "RelativeToolTip": "WelcomeWebAPI\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:12:31.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WelcomeWebAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WelcomeWebAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:11:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WelcomeWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WelcomeWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:09:29.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WelcomeWebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WelcomeWebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:09:02.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeWebAPI\\Program.cs",
+              "ToolTip": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeWebAPI\\WelcomeWebAPI\\Program.cs",
+              "RelativeToolTip": "WelcomeWebAPI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:08:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

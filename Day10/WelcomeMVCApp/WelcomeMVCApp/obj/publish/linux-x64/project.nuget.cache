@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lluP6ZgE4I4=",
+  "success": true,
+  "projectFilePath": "C:\\LiveSessionKoenig\\Csharp_InsiteIntl_training\\Day10\\WelcomeMVCApp\\WelcomeMVCApp\\WelcomeMVCApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanna\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.16\\microsoft.netcore.app.host.linux-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
